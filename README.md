@@ -1,3 +1,5 @@
+Feel free to use and include in your own published GRUB Themes, but please give credit if you do!
+
 # Usage:
 
 Create a folder inside your GRUB theme's directory, can be named anything.
